@@ -4,7 +4,7 @@
 
 @layer components {
   .sl-container {
-    @apply max-w-[1380px] w-full px-3 mx-auto;
+    @apply max-w-[1520px] w-full sm:px-[5%] px-5 mx-auto;
   }
   .sl-animation {
     @apply transition-all duration-500 ease-out;

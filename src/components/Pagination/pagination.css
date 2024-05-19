@@ -1,0 +1,18 @@
+.swiper-pagination {
+  width: fit-content !important;
+  z-index: 50 !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+.swiper-pagination-bullet-active {
+  background: #222 !important;
+}
+.swiper-slide{
+     height: auto;
+}
+@media (max-width: 479px) {
+  .swiper-pagination {
+    left: 0 !important;
+    transform: translateX(0) !important;
+  }
+}

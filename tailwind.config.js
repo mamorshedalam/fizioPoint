@@ -12,7 +12,7 @@ module.exports = {
       mono: ['ui-monospace', 'SFMono-Regular'],
     },
     screens: {
-      xs: "380px",
+      xs: "479px",
       sm: "640px",
       md: "768px",
       lg: "1024px",
@@ -30,6 +30,7 @@ module.exports = {
       'black-20': '#1b0b03b3',
       'black-80': '#5a5a5a',
       'black-100': '#333333',
+      'white-orange': '#fcf8f6',
       'orange-100': '#e6946e',
       'orange-80': '#e9a789',
       'orange-50': '#7c563e',
